@@ -1,4 +1,4 @@
-This MATLAB code creates a simple neural network and then trains it to classify individual handwritten digits. The neural network and backpropagation algorithm used comes from the online book at www.neuralnetworksanddeeplearning.com
+This MATLAB code creates a simple neural network and then trains it to classify individual handwritten digits. The backpropagation algorithm used comes from the online book at www.neuralnetworksanddeeplearning.com
 
 Credit to Siddharth Hegde for the third party function readMNIST, downloaded from http://www.mathworks.com/matlabcentral/fileexchange/27675-read-digits-and-labels-from-mnist-database/content/readMNIST.m
 
