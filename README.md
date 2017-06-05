@@ -1,4 +1,4 @@
-In my first attmept to understand neural networks I had a hard time finding simple examples since most coding languages already have libraries which can make it difficult to see what is going on behind the scenes. So I went ahead and made my own, which is mostly from-scratch (see credits). The MATLAB code creates a simple neural network and then trains it to classify individual handwritten digits. With the right training parameters it can accurately classified up to 97% of the handwritten digits in the MNIST dataset linked below.
+In my first attempt to understand neural networks I had a hard time finding simple examples since most coding languages already have libraries which can make it difficult to see what is going on behind the scenes. So I went ahead and made my own, which is mostly from-scratch (see credits). The MATLAB code creates a simple neural network and then trains it to classify individual handwritten digits. With the right training parameters it can accurately classified up to 97% of the handwritten digits in the MNIST dataset linked below.
 
 The backpropagation algorithm used comes from the online book at www.neuralnetworksanddeeplearning.com
 
@@ -20,3 +20,5 @@ file names in the setup.m script:
 * testimages.idx3-ubyte
 * testlabels.idx1-ubyte
 
+  
+  
